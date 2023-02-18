@@ -49,9 +49,4 @@ body {
 .slider span:hover img {
   transform: translateY(-50px) scale(1.2);
 }
-@media screen and (min-width: 320px) and (max-width: 480px) {
-  .slider span img {
-    width: 200%;
-    height: 200%;
-  }
-}
+
